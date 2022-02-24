@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/UVyFP1DWT4q+Nqi12DqMFIH9z81tgR+n8R6I7E3YPWhjYY2bGD5k7I9l822u3So5vi6Gidi3u24Zs16hp3tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonam\\Desktop\\Port-folio\\Projets\\ProjetClasses Jeux\\ProjetBingo-main\\ProjetBingo-main\\ProjetJeuPOO\\ProjetJeuPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jonam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
